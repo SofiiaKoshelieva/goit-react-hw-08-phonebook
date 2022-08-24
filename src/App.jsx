@@ -34,15 +34,3 @@ export const App = store => {
     </div>
   );
 };
-{
-  /* <Route exact path="/" element={} /> */
-}
-{
-  /* <Route path="/register" element={} /> */
-}
-{
-  /* <Route exact path="/login" element={} /> */
-}
-{
-  /* <Route path="/contacts" element={} /> */
-}
