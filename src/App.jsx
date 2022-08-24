@@ -2,7 +2,7 @@ import Phonebook from './components/Phonebook';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import RegisterPage from 'pages/RegisterPage';
 import LoginPage from 'pages/LoginPage';
-import UserMenu from 'components/userMenu/UserMenu';
+
 import { useDispatch } from 'react-redux';
 import { useEffect } from 'react';
 import AppBar from 'components/userMenu/AppBar';
