@@ -1,0 +1,43 @@
+.fieldset {
+  width: 200px;
+}
+.input {
+  margin-bottom: 20px;
+  margin-left: 5px;
+}
+.li {
+  margin-bottom: 10px;
+}
+.button_logout {
+  margin-left: 6px;
+  background-color: rgb(202, 174, 227);
+}
+.filter {
+  margin-left: 10px;
+}
+.welcome {
+  color: gray;
+  margin-left: 20px;
+}
+.nav_link {
+  margin-left: 10px;
+  text-decoration: none;
+  color: rgb(186, 128, 128);
+}
+.register_case {
+  display: flex;
+  width: 250px;
+  flex-direction: column;
+}
+.register_input {
+  margin-bottom: 15px;
+}
+.register_title {
+  color: rgb(236, 59, 68);
+}
+.login_title {
+  color: rgb(200, 96, 146);
+}
+.nav {
+  display: flex;
+}
